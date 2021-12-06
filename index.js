@@ -6,7 +6,7 @@ fetch("https://www.boredapi.com/api/activity")
     console.log(object);
   })
 
-
+//test
 
 
   document.addEventListener("DOMContentLoaded", () => {
